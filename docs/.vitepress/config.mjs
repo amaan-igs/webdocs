@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/webdocs/',
+  base: '/amaan.inotech-pk.com/',
   title: "Amaan",
   description: "Project Documentation",
   themeConfig: {
