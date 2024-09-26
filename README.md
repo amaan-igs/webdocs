@@ -2,8 +2,8 @@
 >
 > Wikipedia inspired
 > 
-![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/windows.yml?label=Windows%20Build&style=flat-square)
-![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/linux.yml?label=Linux%20Build&style=flat-square)
+[![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/windows.yml?label=Windows%20Build&style=flat-square)](https://github.com/amaan-igs/webdocs/actions)
+[![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/linux.yml?label=Linux%20Build&style=flat-square)](https://github.com/amaan-igs/webdocs/actions)
 [![Actions Status](https://github.com/formulahendry/vscode-code-runner/actions/workflows/main.yml/badge.svg)](https://github.com/amaan-igs/webdocs/actions/workflows/deploy.yml)
 
 
