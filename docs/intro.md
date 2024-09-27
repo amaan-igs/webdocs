@@ -28,11 +28,3 @@ I strive to create **innovative solutions** that not only solve problems but als
 - **Hobbies**: I enjoy working on **side projects** that push my technical skills, contributing to **open-source projects**, and learning about emerging tech trends.
 
 ---
-
-## Contact Me
-
-You can find me on:
-
-- [GitHub](https://github.com/amaan-igs)
-- [LinkedIn](https://linkedin.com/in/amaanulhaqsiddiqui)
-- Email: [amaanulhaq.s@outlook.com](mailto:amaanulhaq.s@outlook.com)
