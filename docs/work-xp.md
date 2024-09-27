@@ -1,44 +1,46 @@
 # Work Experience
 
-## Inotech Global Solutions, Karachi  
+## Inotech Global Solutions
 >**Startup Founder and Managing Director**  
 >*May 2024 - Present*
 
-- Grew the team from 2 to 10 employees in 6 months while leading all business operations.
-- Ensured 95% client satisfaction by consistently delivering high-quality IT solutions across 15+ projects.
-- Delivered all projects on time and within a 5% budget variance, boosting revenue by 20%.
-- Implemented 5 technologies to streamline operations, improving efficiency by 30%.
-- Achieved 85% client retention through strong relationships, driving long-term business growth.
+- Expanded the team from 2 to 10 employees within 6 months, managing all key operations with a focus on efficiency and structure.
+- Consistently delivered 15+ projects on time and within a 5% budget variance, maintaining high service standards and achieving a 95% client satisfaction rate.
+- Introduced cloud technologies to streamline workflows, improving overall operational efficiency by 30%.
+- Developed and maintained strong client relationships, resulting in an 85% client retention rate and steady business growth.
 
-## Createch Global Solutions, Karachi  
+
+## Createch Global Solutions  
 >**Web Solutions Architect**  
 >*Aug 2023 - Nov 2023*
 
-- Provided custom web solutions and managed end-to-end web development projects.
-- Implemented cloud infrastructure migrations, enhancing efficiency and scalability.
-- Set up SMTP servers, designed and deployed dynamic websites, and managed SEO.
-- Collaborated with clients to understand their needs and deliver tailored solutions.
-- Managed databases and ensured optimal website performance and security.
+- Delivered tailored web solutions across multiple projects, ensuring each met client requirements and was completed within the agreed timelines.
+- Successfully migrated client infrastructure to cloud platforms, improving scalability and reducing operational overhead.
+- Set up SMTP servers, deployed dynamic websites, and implemented SEO strategies that enhanced client online presence.
+- Managed databases and ensured website security and performance optimization for all clients.
 
-## BeeAble Therapy Center, Karachi  
+
+## BeeAble Therapy Center
 >**Web Developer (Volunteer)**  
 >*Oct 2023 - Nov 2023*
 
-- Developed and maintained the therapy center's website, enhancing user experience through improved accessibility and navigation.
-- Worked closely with the team to align the website with the organization's branding and communication goals.
+- Developed and maintained the therapy center's website, focusing on usability and accessibility improvements for a better user experience.
+- Ensured the website met the organization's branding guidelines and supported their outreach objectives.
 
-## Zainab Islamic Academy, Karachi  
+
+## Zainab Islamic Academy
 >**IT Consultant (Volunteer)**  
 >*Nov 2023 - Dec 2023*
 
-- Provided IT consulting services to optimize the academy's technological infrastructure.
-- Conducted training sessions for staff to enhance digital literacy and effectively use new IT systems.
+- Provided IT consulting to optimize the academy's infrastructure, ensuring a smoother and more reliable digital setup.
+- Led training sessions to improve staff digital literacy, helping them adopt new tools and systems more effectively.
 
-## Links 
 
-::: details
--
--
--
--
+## Links
+
+::: info
+<https://inotech-pk.com><br>
+<https://createch.solutions><br>
+<https://beeabletherapycenter.com><br>
+<https://zainabislamicacademy.com><br>
 :::
