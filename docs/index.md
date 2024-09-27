@@ -6,8 +6,8 @@ hero:
   text: "Tech Portfolio & Documentation"
   tagline: "Showcasing Projects, Experience, and Learning"
   image:
-    src: ./projects/assests-p/devops-art-custom.png
-    alt: VitePress
+    src: /projects/assests-p/devops-art-custom.png
+    alt: Amaan's Clipart
   actions:
     - theme: brand
       text: "About Me"
