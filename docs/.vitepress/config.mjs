@@ -9,14 +9,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Summary', link: '/Intro' }
+      { text: 'Summary', link: '/intro' }
     ],
 
     sidebar: [
       {
         text: 'Introduction',
         items: [
-          { text: 'Brief Summary', link: '/Intro' },
+          { text: 'Brief Summary', link: '/intro' },
           { text: 'Work Experience', link: '/work-xp' },
         ]
       },
