@@ -1,6 +1,7 @@
 # Work Experience
 
 ## Inotech Global Solutions
+
 >**Startup Founder and Managing Director**  
 >*May 2024 - Present*
 
@@ -11,6 +12,7 @@
 
 
 ## Createch Global Solutions  
+
 >**Web Solutions Architect**  
 >*Aug 2023 - Nov 2023*
 
@@ -21,6 +23,7 @@
 
 
 ## BeeAble Therapy Center
+
 >**Web Developer (Volunteer)**  
 >*Oct 2023 - Nov 2023*
 
@@ -29,6 +32,7 @@
 
 
 ## Zainab Islamic Academy
+
 >**IT Consultant (Volunteer)**  
 >*Nov 2023 - Dec 2023*
 
