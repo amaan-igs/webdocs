@@ -50,10 +50,9 @@ Use the extension for yourself:
 
 ## Screenshots/Demos
 
-![VS CODE EXTENSION TAB](image.png)
+![VS CODE EXTENSION TAB](./assests-p/image.png)
 <br>
-![VS CODE EXTENSION MARKETPLACE](image-1.png)
+![VS CODE EXTENSION MARKETPLACE](./assests-p/image-1.png)
 ::: warning
 **Note:** Demo video tutorials are in progress and will be available soon.
 :::
----
