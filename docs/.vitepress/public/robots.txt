@@ -1,0 +1,15 @@
+# Allow all crawlers access to the entire site
+User-agent: *
+Disallow:
+
+# Block specific directories
+User-agent: *
+Disallow: /private/
+Disallow: /temp/
+
+# Allow Googlebot to access the entire site
+User-agent: Googlebot
+Disallow:
+
+# Specify the location of the sitemap
+Sitemap: https://dev.inotech-pk.com/sitemap.xml
