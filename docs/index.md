@@ -11,7 +11,7 @@ hero:
       link: /intro
     - theme: alt
       text: "Projects"
-      link: /projects/markdown-examples
+      link: /projects/codejumpstart
     - theme: alt
       text: "Contact"
       link: /contact
@@ -22,7 +22,7 @@ features:
   - title: Open Source Contributions
     details: Contributions to various open-source projects in the cloud-native and DevOps space.
   - title: Latest Projects
-    details: Projects including Amazon Sales Analysis, Rent-A-Car System, and more.
+    details: Projects including Amazon Sales Analysis, CodeJumpstart, and more.
   - title: Learning Resources
     details: Curated study notes and materials on PySpark, AWS, Databricks, and other topics.
 ---

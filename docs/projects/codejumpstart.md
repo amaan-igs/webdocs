@@ -15,24 +15,28 @@ CodeJumpstart is a VS Code extension designed to accelerate the initialization p
 ## Key Features
 
 ::: details
+
 - Supports multiple languages and frameworks (Vue.js, Python, React, C/C++, and more).
 - Customizable templates for each language, allowing for flexibility.
 - Automatically generates essential project files for version control and documentation.
 :::
 
+::: info
+
+- Install the extension from the VS Code marketplace.
+- Open the command palette (Ctrl+Shift+P).
+- Select Initialize New Project with CodeJumpstart.
+- Choose your language/framework and provide a project name.
+- Start coding!
+:::
+
 ## Technologies Used
 
 **Built with:**
+
 - **VS Code API**: For extension development.
 - **JavaScript**: Core functionality.
 - **JSON**: For template configurations.
-
-
-## Screenshots/Demos
-
-::: warning
-**Note:** Demo screenshots and video tutorials are in progress and will be available soon.
-:::
 
 ## GitHub Link
 
@@ -44,4 +48,12 @@ Explore the code and contribute:
 Use the extension for yourself:  
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=amaan-ul-haq-siddiqui.codejumpstart)
 
+## Screenshots/Demos
+
+![VS CODE EXTENSION TAB](image.png)
+<br>
+![VS CODE EXTENSION MARKETPLACE](image-1.png)
+::: warning
+**Note:** Demo video tutorials are in progress and will be available soon.
+:::
 ---
