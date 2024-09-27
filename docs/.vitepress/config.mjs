@@ -23,15 +23,22 @@ export default defineConfig({
       {
         text: 'Projects',
         items: [
-          { text: 'Markdown Examples', link: './projects/markdown-examples' },
-          { text: 'Runtime API Examples', link: './projects/api-examples' }
+          { text: 'Markdown Examples', link: '/projects/markdown-examples' }, 
+          { text: 'Runtime API Examples', link: '/projects/api-examples' }    
+        ]
+      },
+      {
+        text: ' ',
+        items: [
+          { text: 'Contact', link: '/contact' }, 
         ]
       }
-      
+
     ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/amaan-igs' },
-      { icon: 'linkedin', link: 'https://www.linkedin.com/in/amaanulhaqsiddiqui/' }    ]
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/amaanulhaqsiddiqui/' }
+    ]
   }
 })

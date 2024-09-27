@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: "About Me"
-      link: /about 
+      link: /intro
     - theme: alt
       text: "Projects"
       link: /projects/markdown-examples
