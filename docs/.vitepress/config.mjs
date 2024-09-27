@@ -18,8 +18,8 @@ export default defineConfig({
         items: [
           { text: 'Brief Summary', link: '/Hi' },
           { text: 'Work Experience', link: '/work-xp' },
-          // { text: 'Markdown Examples', link: '/markdown-examples' },
-          // { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
