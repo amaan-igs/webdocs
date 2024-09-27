@@ -6,7 +6,7 @@ hero:
   text: "Tech Portfolio & Documentation"
   tagline: "Showcasing Projects, Experience, and Learning"
   image:
-    src: /devops-art-custom.png
+    src: ./devops-art-custom.png
     alt: Amaan's Clipart
   actions:
     - theme: brand
