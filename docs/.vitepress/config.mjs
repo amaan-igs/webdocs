@@ -23,7 +23,7 @@ export default defineConfig({
       {
         text: 'Projects',
         items: [
-          { text: 'Markdown Examples', link: '/projects/markdown-examples' }, 
+          { text: 'VS Code Extension', link: '/projects/codejumpstart' }, 
           { text: 'Runtime API Examples', link: '/projects/api-examples' }    
         ]
       },
