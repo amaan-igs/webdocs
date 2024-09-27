@@ -3,6 +3,10 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/',
+  sitemap: {
+    hostname: 'http://dev.inotech-pk.com', // my domain
+    lastmodDateOnly: false,
+  },
   title: "Amaan",
   description: "Project Documentation",
   themeConfig: {
