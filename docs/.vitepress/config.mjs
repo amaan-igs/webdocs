@@ -13,7 +13,7 @@ export default defineConfig({
   // Add the head property here
   head: [
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-    ['meta', { name: 'google-site-verification', content: 'YUlIvm2DudnBx40Er1fQzihX7jK0WMGOU3JCKZf4QSg' }],
+    ['meta', { name: 'google-site-verification', content: process.env.CONSOLE_KEY }],
     // Optional: Add Apple Touch Icon for better compatibility
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
     // Optional: Add a manifest file for progressive web apps
