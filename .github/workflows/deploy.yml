@@ -37,6 +37,9 @@ jobs:
         run: npm ci 
       - name: Build with VitePress
         run: npm run docs:build 
+        env:
+          CONSOLE_KEY: ${{ secrets.CONSOLE_KEY }}
+          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
