@@ -1,4 +1,4 @@
-# CodeJumpstart
+# CodeJumpstart <Badge type="tip" text="^1.1.0" />
 
 ## Overview
 

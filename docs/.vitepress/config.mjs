@@ -1,4 +1,3 @@
-// .vitepress/config.js
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
@@ -10,13 +9,12 @@ export default defineConfig({
   title: "Amaan",
   description: "Project Documentation",
   
-  // Add the head property here
+  // head property here
   head: [
-    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
     ['meta', { name: 'google-site-verification', content: process.env.CONSOLE_KEY }],
-    // Optional: Add Apple Touch Icon for better compatibility
+    // Added Apple Touch Icon for better compatibility
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
-    // Optional: Add a manifest file for progressive web apps
     ['link', { rel: 'manifest', href: '/site.webmanifest' }]
   ],
   
