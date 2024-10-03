@@ -11,7 +11,7 @@ export default defineConfig({
   
   // head property here
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'google-site-verification', content: process.env.CONSOLE_KEY }],
     // Added Apple Touch Icon for better compatibility
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
