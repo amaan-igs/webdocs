@@ -2,13 +2,14 @@
 
 ## Inotech Global Solutions
 
->**Startup Founder and Managing Director**  
+>**Startup Founder and Technical Director**  
 >*May 2024 - Present*
 
-- Expanded the team from 2 to 10 employees within 6 months, managing all key operations with a focus on efficiency and structure.
-- Consistently delivered 15+ projects on time and within a 5% budget variance, maintaining high service standards and achieving a 95% client satisfaction rate.
-- Introduced cloud technologies to streamline workflows, improving overall operational efficiency by 30%.
-- Developed and maintained strong client relationships, resulting in an 85% client retention rate and steady business growth.
+- Led technical strategy and execution for delivering tailored IT solutions, including ERPNext and Frappe CRM, customized to client business needs and optimized for scalability.
+- Managed 10+ feature-driven projects, achieving consistent client satisfaction (95% positive feedback) and maintaining a cost variance of only 2%-3% across all implementations.
+- Implemented ERPNext, Frappe CRM, and AWS cloud migrations, optimizing business operations and improving operational efficiency by 30% across various client environments.
+- Led a team of 10 developers using Agile and feature-driven development, resulting in a 20% improvement in code delivery speed and a 15% increase in project quality metrics.
+
 
 
 ## Createch Global Solutions  
@@ -16,10 +17,11 @@
 >**Web Solutions Architect**  
 >*Aug 2023 - Nov 2023*
 
-- Delivered tailored web solutions across multiple projects, ensuring each met client requirements and was completed within the agreed timelines.
-- Successfully migrated client infrastructure to cloud platforms, improving scalability and reducing operational overhead.
-- Set up SMTP servers, deployed dynamic websites, and implemented SEO strategies that enhanced client online presence.
-- Managed databases and ensured website security and performance optimization for all clients.
+- Delivered custom web solutions using CSS, JavaScript, and WordPress on Hostinger and Blue Host Clouds, managing full project lifecycles from development to deployment.
+- Migrated websites from high-cost, underperforming providers to scalable solutions on Hostinger Cloud and Blue Host, reducing hosting costs by 20% and improving scalability.
+- Collaborated with clients to deliver tailored solutions using MySQL and PHPMyAdmin, aligning with business needs, and enhancing web performance and SEO rankings with Semrush.
+- Ensured optimal website performance and security by configuring HTTPS, optimizing MySQL databases, and setting up separate development and production servers, improving load times by 25%.
+
 
 
 ## BeeAble Therapy Center
