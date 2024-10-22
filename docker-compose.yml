@@ -1,12 +1,13 @@
 services:
   webdocs:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    # build:
+    #   context: .
+    #   dockerfile: Dockerfile  (When Building from Local Dockerfile)
+    image: amaanulhaq30/webdocs:latest  # Use the image from Docker Hub if not building locall
     ports:
       - "5173:5173"
     volumes:
-      - .:/usr/src/app  # mounted cd container
+      - .:/usr/src/app  # mounted cd on to the container
     environment:
       - NODE_ENV=development
     command: ["npm", "run", "docs:dev", "--", "--host"] # ovveriding dockerfile
