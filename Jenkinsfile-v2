@@ -1,0 +1,39 @@
+@Library("jenkins-stdlib") _
+
+pipeline {
+    
+    agent { label "aws" }
+    
+    stages {
+        stage('Git: Code Checkout') {
+            steps {
+                script{
+                    gitClone("https://github.com/amaan-igs/webdocs.git", "main")
+                }
+            }
+        }
+        
+        stage('Docker Build') {
+            steps {
+                script{
+                    docker_build("webdocs","latest","")
+                }
+            }
+        }
+        
+        stage('Docker Hub Push') {
+            steps {
+                script {
+                    docker_push("webdocs", "latest", "amaanulhaq30")
+                }
+            }
+        }
+
+        stage('Docker Compose') {
+            steps {
+                echo "Launching services with docker-compose..."
+                sh "docker-compose up -d"
+            }
+        }
+    }  
+}
