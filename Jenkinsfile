@@ -10,14 +10,14 @@ pipeline {
             }
         }
         
-        stage('Docker Build') {
+        stage('Docker - Build') {
             steps {
                 echo "Building project with Docker..."
                 sh "docker build -t webdocs:latest ."
             }
         }
         
-        stage('Docker Hub Push') {
+        stage('Docker Hub - Push') {
             steps {
                 echo "Pushing to Dockerhub..."
                 withCredentials([usernamePassword(credentialsId:"HubDocker", 
@@ -29,7 +29,7 @@ pipeline {
             }
         }
 
-        stage('Docker Compose') {
+        stage('Docker-Compose') {
             steps {
                 echo "Launching services with docker-compose..."
                 sh "docker-compose up -d"
