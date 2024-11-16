@@ -1,6 +1,6 @@
 # Webdocs 
 >
-> Wikipedia inspired
+> Wikipedia Inspired
 > 
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/windows.yml?label=Windows%20Build&style=flat-square)](https://github.com/amaan-igs/webdocs/actions)
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/linux.yml?label=Linux%20Build&style=flat-square)](https://github.com/amaan-igs/webdocs/actions)
