@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/',
   sitemap: {
-    hostname: 'https://dev.inotech-pk.com', // Updated to HTTPS
+    hostname: 'https://dev.inotech-pk.com',
     lastmodDateOnly: false,
   },
   title: "Amaan",
